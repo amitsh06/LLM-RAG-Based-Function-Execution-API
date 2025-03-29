@@ -12,3 +12,18 @@ ENV/
 .vscode/
 *.log
 .DS_Store
+
+# Documentation files
+documentation.md
+
+# Sensitive information
+*.key
+*.pem
+*.crt
+*.cer
+*.p12
+*.pfx
+*.env*
+*.secret*
+*config.json
+*credentials*
